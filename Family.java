@@ -2,9 +2,9 @@ public class Family {
 
     public static void main(String[] args) {
         
-        Person medha = new Person("Medhu Hegde", 10);
+        Person medha = new Person("Medhu Hegde-1", 10);
 
-        Person arya = new Person("Aru Hegde", 4);
+        Person arya = new Person("Aru Hegde-1", 4);
 
         System.out.println(medha.getAge());
         
